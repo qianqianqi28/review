@@ -7,7 +7,7 @@ The project structure distinguishes two kinds of folders:
 - nmf folder includes MATLAB code.
 
 ## Installation instructions
-- library(renv) init() is used to obtain renv.lock file. By looking at this file: This code is run by R version 4.2.3. If you want to load the request packages, you can use renv::restore().
+- library(renv) init() is used to obtain renv.lock file. By looking at this file: This code is run by R version 4.2.3.
 - Matlab R2024b
 
 ## Operating instructions
