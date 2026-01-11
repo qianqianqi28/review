@@ -14,7 +14,7 @@ The project structure distinguishes two kinds of folders:
 Please see Readme file in lbaemma folder and nmf folder.
 
 ## Paper
-Qi, Q., & Van der Heijden, P. G. (2025). A review of NMF, PLSA, LBA, EMA, and LCA with a focus on the identifiability issue. arXiv preprint arXiv:2512.22282.
+Qi, Q., & Van der Heijden, P. G. M. (2025). A review of NMF, PLSA, LBA, EMA, and LCA with a focus on the identifiability issue. arXiv preprint arXiv:2512.22282.
 
 
 ## License
