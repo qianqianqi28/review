@@ -16,6 +16,9 @@ Please see Readme file in lbaemma folder and nmf folder.
 ## Paper
 Qi, Q., & Van der Heijden, P. G. M. (2025). A review of NMF, PLSA, LBA, EMA, and LCA with a focus on the identifiability issue. arXiv preprint arXiv:2512.22282.
 
+## The dataset used in Section 6
+
+The dataset used in Section 6 is available in the paper and can be reproduced using the script review/nmf/timebudget.m or review/lbaemma/code/timebudget.R. This dataset has been used in prior work; please refer to the paper for details.
 
 ## License
 This project is licensed under the terms of the LICENSE GNU General Public License v3.0.
